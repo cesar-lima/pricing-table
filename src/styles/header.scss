@@ -1,0 +1,22 @@
+.container {
+    background-color: #1D539E;
+    text-align: center;
+    padding: 20px;
+    height: 450px;
+    
+    p{
+        color: #FFFFFF;
+    }
+
+    p:first-child{
+        margin-top: 65px;
+        margin-bottom: 20px;
+        font-weight: 700;
+        font-size: 48pt;
+    }
+
+    p:last-child{
+        font-size: 18pt;
+        font-weight: 400;
+    }
+}
