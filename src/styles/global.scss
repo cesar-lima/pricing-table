@@ -5,6 +5,13 @@
 }
 
 body{
-    background-color: black;
     font-family: 'Open Sans', sans-serif;
 }
+
+.plans{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
+}
+
