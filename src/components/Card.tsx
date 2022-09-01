@@ -8,8 +8,32 @@ export function Card() {
                 Pacote 1
             </div>
 
+            <div className="card-price">
+                <span>R$ 59</span><span>,00 </span><span>/mês</span>   
+            </div>
+
+            <div className="card-description">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+            </div>
+
             <div className="card-text">
-                <img src={check} alt="" /> a blablauel
+                <img src={check} alt="icone de check" /> Lorem ipsum dolor sit amet.
+            </div>
+
+            <div className="card-text">
+                <img src={check} alt="icone de check" /> Lorem ipsum dolor sit amet.
+            </div>
+
+            <div className="card-text">
+                <img src={check} alt="icone de check" /> Lorem ipsum dolor sit amet.
+            </div>
+
+            <div className="card-text">
+                <img src={check} alt="icone de check" /> Lorem ipsum dolor sit amet.
+            </div>
+
+            <div className="card-button">
+                <button>ASSINAR</button>
             </div>
         </div>
     );
