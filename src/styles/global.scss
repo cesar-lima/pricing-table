@@ -14,5 +14,10 @@ body{
     justify-content: space-around;
     margin: 0 auto;
     width: 70%;
+    
+    @media screen and (max-width:1313px) {
+        display: block;
+    }
 }
+
 

@@ -19,4 +19,9 @@
         font-size: 18pt;
         font-weight: 400;
     }
+
+    @media screen and (max-width:1313px) {
+        margin-bottom: 40px;
+        height: 300px;
+    }
 }

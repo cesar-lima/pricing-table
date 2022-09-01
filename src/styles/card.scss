@@ -76,5 +76,11 @@
         color: white;
     }
 
+    @media screen and (max-width:1313px) {
+        display: block;
+        margin: auto;
+        width: 100%;
+        margin-bottom: 40px;
+    }
 }
 
